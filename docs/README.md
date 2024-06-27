@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<div class="navbar">
+  <a href="/docs/index.md">Home</a>
+  <a href="/docs/about.md">About Me</a>
+</div>
+
 # Michaela Watkins
 
 PhD Candidate at the University of Amsterdam (ACLC)
