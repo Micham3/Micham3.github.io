@@ -10,7 +10,7 @@ I am in my second year, currently researching acoustic cues in the laryngeal sto
 <html>
   <body>
     <img src="/assets/me.jpg" alt="My Face"
-      width=400
+      width=800
       height=auto>
   </body>
 </html>
