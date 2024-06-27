@@ -9,7 +9,9 @@ I am in my second year, currently researching acoustic cues in the laryngeal sto
 
 <html>
   <body>
-    <img src="/assets/me.jpg" alt="My Face" style="position: absolute; top: 500px; left: 10px; width: 200px; height: auto;">
+    <img src="/assets/me.jpg" alt="My Face"
+      width=400
+      height=auto>
   </body>
 </html>
 
