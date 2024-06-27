@@ -2,4 +2,6 @@
 
 PhD Candidate at the University of Amsterdam (ACLC)
 
-##About
+## About
+
+I am in my second year, currently researching acoustic cues in the laryngeal stop contrast in Seoul Korean
