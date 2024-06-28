@@ -7,7 +7,7 @@ PhD Candidate at the University of Amsterdam (ACLC)
 I am in my second year, currently researching acoustic cues in the laryngeal stop contrast in Seoul Korean
 
 
-- [About Me](https://Micham3.github.io/docs/pages/about.md)
+- [About Me](https://Micham3.github.io/docs/pages/about)
 
 
 <html>
