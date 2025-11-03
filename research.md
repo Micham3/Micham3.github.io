@@ -17,7 +17,6 @@ I am going to be at the Dag van de Fonetiek later this month (October) with a po
 Michaela Watkins, Silke Hamann _Mapping Features to Cues: A neural network proposal for laryngeal stops in Seoul Korean_, presented at Old World Conference in Phonology (Amsterdam, February 2025)
 
 
-
 ## Posters
 
 Patrik Hrabánek, **Michaela Watkins**, Silke Hamann  The function of creaky voice in South Korean: A perception study Accepted: Interspeech 2025. Link: https://www.isca-archive.org/interspeech_2025/hrabanek25_interspeech.html
