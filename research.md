@@ -3,16 +3,12 @@ layout: default
 title: Research
 permalink: /research/
 ---
-## Publications
+## News
 
-#2025
+# 2025
 
-## Presentations
-
-
-
-
-## Posters
+- Interspeech
+- OCP
 
 
 
