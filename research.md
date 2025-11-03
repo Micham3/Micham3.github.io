@@ -7,10 +7,24 @@ permalink: /research/
 
 # 2025
 
+## Presentations
+
+OCP 
+
+## Posters
 - Interspeech
-- OCP
 
 
+# 2024
+
+## Presentations
+
+- NAACL
+
+# 2023
+
+## Posters
+- HisPhonCog 
 
 
 
